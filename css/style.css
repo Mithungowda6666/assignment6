@@ -1,0 +1,261 @@
+
+body{
+    background-image: url('https://cdn4.vectorstock.com/i/1000x1000/57/28/abstract-light-purple-background-vector-2255728.jpg');
+    background-position:cover;
+    background-size:900px;
+    font-family:Arial, Helvetica, sans-serif ;
+    margin-top: 40px;
+}
+.regform
+{
+    width: 900px;
+    background-color: rgb(0,0,0,0.3);
+    margin: auto;
+    color : #FFFFFF;
+    padding:20px,0px,20px,0px;
+    text-align: center;
+    border-radius: 15px,15px,5px,5px;
+}
+h1{
+    font-family:'Amita';
+    font-size: 45px;
+}
+
+.main{
+    background-color: rgb(0,0,0,0.1);
+    width: 900px;
+    margin:auto;
+
+}
+form{
+    padding:10px;
+
+}
+#name{
+    width: 100%;
+    height:100px;
+    font-family:'Aldrich'
+}
+.name{
+    margin-left:80px;
+    margin-top:1px;
+    width: 125px;
+    color:white;
+    font-size:30px;
+    font-weight: 700;
+    top:55px;
+
+}
+.namee{
+    margin-left:10px;
+    margin-top:1px;
+    width: 125px;
+    color:white;
+    font-size:22px;
+    font-weight: 700;
+}
+.mail{
+    margin-left:90px;
+    margin-top:30px;
+    width: 125px;
+    color:white;
+    font-size:25px;
+    font-weight: 700;
+
+}
+.firstlable{
+    
+    left:20px;
+    top: 100px;
+    line-height: 30px;
+    border-radius:6px;
+    padding:0 22px;
+    font-size: 16px;
+
+}
+.lastlable{
+    
+    left:417px;
+    top:-100px;
+    line-height: 30px;
+    border-radius: 6px;
+    padding:0 22px;
+    font-size: 16px;
+    color:black;
+}
+.firstname{
+    position:relative;
+    color: #E5E5E5;
+    text-transform: capitalize;
+    font-size: 14px;
+    left:203px;
+    top:-45px;
+
+}
+.lastname
+{
+    position:relative;
+    color: #E5E5E5;
+    text-transform: capitalize;
+    font-size: 14px;
+    left:492px;
+    top:-16px; 
+}
+.company{
+    position: relative;
+    left:40px;
+    top: -28px;
+    line-height: 30px;
+    width:480px;
+    border-radius: 6px;
+    padding:0 22px;
+    font-size: 16px;
+    color: #555;
+    font-family:'Aldrich'
+}
+.email{
+    position: relative;
+    left:16px;
+    top: -28px;
+    line-height: 30px;
+    width:480px;
+    border-radius: 6px;
+    padding:0 22px;
+    font-size: 16px;
+    color: #555;
+    font-family:'Aldrich'
+}
+.code{
+    position: relative;
+    left:10px;
+    top: -60px;
+    line-height: 50px;
+    width:60px;
+    height: 35px;
+    border-radius: 6px;
+    padding:0 22px;
+    font-size: 16px;
+    color: #555;
+
+}
+.number{
+    position: relative;
+    left:10px;
+    top: -60px;
+    line-height: 30px;
+    width:260px;
+    border-radius: 6px;
+    padding:0 22px;
+    font-size: 16px;
+    color: #555;
+}
+.area-code{
+    position:relative;
+    color: ;
+    text-transform: capitalize;
+    font-size: 19px;
+    left:10px;
+    top:-60px;
+    font-family: 'Aldrich';
+
+}
+.phone-number{
+    position:relative;
+    color: #E5E5E5;
+    text-transform: capitalize;
+    font-size: 19px;
+    left:10px;
+    top:-60px;
+    font-family: 'Aldrich';
+}
+.option{
+    position: relative;
+    left:10px;
+    top: -40px;
+    text-transform: capitalize;
+    line-height: 30px;
+    width:500px;
+    height: 40px;
+    border-radius: 6px;
+    padding:0 22px;
+    font-size: 16px;
+    color: #555;
+    outline: none;
+    overflow:hidden ;
+}
+.sub{
+    position:relative;
+    color: white;
+    text-transform: capitalize;
+    font-size: 40px;
+    left:10px;
+    top:-50px;
+    font-family: 'Aldrich';
+}
+. option option{
+    font-size: 20px;
+}
+#customer{
+    margin-left:25px ;
+    color:white;
+    font-size: 18px;
+}
+.radio
+{
+    display: inline-block;
+    padding-right: 70px;
+    font-size: 25px;
+    margin-left: 25px;
+    color: white;
+}
+.radio input{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    color: black;
+    cursor: pointer;
+    outline: none;
+}
+.button{
+    background-color: #9469c6dc;
+    display:;
+    margin:20px 0px 0px 20px;
+    text-align: center;
+    border-radius: 12px;
+    border: 2px solid #9469c6dc;
+    padding: 14px 110px;
+    outline: none;
+    color: black;
+    cursor: ;
+    transition: 0.25px;
+    font-size: 20px;
+}
+
+}
+#student{
+    left: -190px;
+    width: 50%;
+    height:50px;
+    font-family:'Aldrich'
+}
+.options{
+    position: relative;
+    left:10px;
+    top: -60px;
+    text-transform: capitalize;
+    line-height: 30px;
+    width:99px;
+    height: 40px;
+    border-radius: 6px;
+    padding:0 22px;
+    font-size: 16px;
+    color: #555;
+    outline: none;
+    overflow:hidden ;
+@media screen and (max-width: 600px) {
+    . {
+      width: 100%;
+      margin-top: 0;
+    }
+  }
+  
